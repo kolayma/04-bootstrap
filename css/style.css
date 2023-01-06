@@ -37,3 +37,12 @@
   font-size: 100px;
   color: red;
 }
+
+.carousel {
+  margin-bottom: 20px;
+}
+
+.blockquote {
+  display: flex;
+  justify-content: center;
+}
